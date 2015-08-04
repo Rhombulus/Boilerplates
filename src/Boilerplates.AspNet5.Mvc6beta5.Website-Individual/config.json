@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Boilerplates.AspNet5.Mvc6beta5.Website_Individual"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Boilerplates.AspNet5.Mvc6beta5.Website_Individual-4b18c31e-42d1-4b43-8249-26c9ed7c6b31;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
